@@ -1,8 +1,6 @@
 # jar-scan
 Console java program with the purpose of helping detect malicious .jar files. Will be publicly released when I finish making it user-friendly.
 
-### NEVER ANALYZE MALICIOUS FILES OUTSIDE A CONTROLLED ENVIORMENT SUCH AS A VM. THERE IS A CHANCE MALICIOUS CODE CAN EXECUTE WHEN SCANNED
-
 # Features
 
 - Detect any webhook urls
